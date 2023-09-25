@@ -1,0 +1,24 @@
+html {
+    width: 960px;
+}
+
+body {
+    width: 960px;
+    font-family: Arial, sans-serif;
+    color: #fcfcfc;
+    background: #355664;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px 50px 0;
+    margin: auto;
+}
+
+h2 {
+    font-size: 40px;
+    border: 3px solid #416371;
+    padding-bottom: 20px;
+ }
